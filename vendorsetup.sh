@@ -1,3 +1,3 @@
-add_lunch_combo cm_novel3gskt-eng
-add_lunch_combo cm_novel3gskt-userdebug
-add_lunch_combo cm_novel3gskt-user
+add_lunch_combo lineage_novel3gskt-eng
+add_lunch_combo lineage_novel3gskt-userdebug
+add_lunch_combo lineage_novel3gskt-user
