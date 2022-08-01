@@ -1,6 +1,3 @@
-# Inherit some common stuff.
-$(call inherit-product, vendor/cm/config/common_full_phone.mk)
-
 # Inherit device configuration
 $(call inherit-product, device/samsung/novel-common/device-common.mk)
 
